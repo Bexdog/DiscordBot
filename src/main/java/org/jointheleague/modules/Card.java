@@ -1,5 +1,7 @@
 package org.jointheleague.modules;
 
+snakpackage org.jointheleague.modules;
+
 public class Card {
 
 	public int displayValue;
